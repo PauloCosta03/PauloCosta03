@@ -2,7 +2,8 @@
 
 **Seja bem vindo!**
 
-Me chamo Paulo, tenho 20 anos. Estou no processo para ingressar em alguma universidade e busco adquirir conhecimentos que possam tornar realidade todos os meus pensamentos criativos, seja na área profissional ou apenas por hobby. 
+Me chamo Paulo, tenho 20 anos. Estou no processo para ingressar em alguma universidade.
+Busco adquirir conhecimentos que possam tornar realidade meus pensamentos criativos, seja na área profissional ou apenas por hobby. 
 
 🐍 Atualmente estou aprendendo python!
 
