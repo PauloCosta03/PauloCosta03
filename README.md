@@ -10,8 +10,12 @@ Busco adquirir conhecimentos que possam tornar realidade meus pensamentos criati
 
 Conto com vocês nessa jornada!
 
- <div>
+ ![nonsense-bungaku-literary-nonsense](https://github.com/user-attachments/assets/94fa0766-ba3f-48c2-9374-30ad84c42e0f)
+
  
+ <div>
+
+
   <a href="https://www.linkedin.com/in/paulo-costa-613a34287" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 
